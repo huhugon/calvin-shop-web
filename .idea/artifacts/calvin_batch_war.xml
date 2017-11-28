@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="calvin-batch:war">
+    <output-path>$PROJECT_DIR$/calvin-batch/target</output-path>
+    <root id="archive" name="calvin-batch_war.war">
+      <element id="artifact" artifact-name="calvin-batch:war exploded" />
+    </root>
+  </artifact>
+</component>

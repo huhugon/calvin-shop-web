@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="calvin-fo:war exploded">
+    <output-path>$PROJECT_DIR$/calvin-fo/target</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="calvin-fo" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="calvin-fo/web/calvin-fo-web" />
+    </root>
+  </artifact>
+</component>

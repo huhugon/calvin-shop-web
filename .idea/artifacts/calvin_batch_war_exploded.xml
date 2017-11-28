@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="calvin-batch:war exploded">
+    <output-path>$PROJECT_DIR$/calvin-batch/target</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="calvin-batch" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="calvin-batch/web/calvin-batch-web" />
+    </root>
+  </artifact>
+</component>
