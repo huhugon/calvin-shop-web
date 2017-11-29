@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="war" name="calvin-fo:war">
     <output-path>$PROJECT_DIR$/calvin-fo/target</output-path>
-    <root id="archive" name="calvin-fo_war.war">
+    <root id="archive" name="calvin-fo-1.0.0-SNAPSHOT.war">
       <element id="artifact" artifact-name="calvin-fo:war exploded" />
     </root>
   </artifact>

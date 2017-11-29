@@ -7,7 +7,7 @@
           <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/src/main/webapps/WEB-INF/web.xml" />
         </descriptors>
         <webroots>
-          <root url="file://$MODULE_DIR$/src/main/webapps" relative="/" />
+          <root url="file://$MODULE_DIR$/src/main/webapp" relative="/" />
         </webroots>
         <sourceRoots>
           <root url="file://$MODULE_DIR$/src/main/java" />
@@ -29,6 +29,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="calvin-base" />
     <orderEntry type="module" module-name="calvin-base" />
   </component>
 </module>

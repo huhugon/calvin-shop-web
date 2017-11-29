@@ -41,6 +41,11 @@
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/calvin-batch" />
+    <file type="web" url="file://$PROJECT_DIR$/calvin-bo" />
+    <file type="web" url="file://$PROJECT_DIR$/calvin-fo" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>

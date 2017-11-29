@@ -22,11 +22,15 @@
         <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="calvin-base" />
+        <module name="calvin-batch" />
         <module name="calvin-bo" />
         <module name="calvin-fo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="calvin-base" target="1.5" />
+      <module name="calvin-batch" target="1.5" />
       <module name="calvin-bo" target="1.5" />
       <module name="calvin-fo" target="1.5" />
       <module name="calvin-shop-web" target="1.5" />
